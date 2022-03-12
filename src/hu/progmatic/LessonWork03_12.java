@@ -16,6 +16,7 @@ public class LessonWork03_12 {
                 System.out.println("Nem Szököév");
             }
 
+
         }else if (ev > 1582 && ev % 4 == 0 ){
             System.out.println("Szökőév");
 
